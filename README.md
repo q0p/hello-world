@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi master!
+
+I am a branch and stemmed from you, can you believe it?!
